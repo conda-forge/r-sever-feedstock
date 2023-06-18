@@ -1,11 +1,11 @@
-About r-sever
-=============
+About r-sever-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-sever-feedstock/blob/main/LICENSE.txt)
 
 Home: https://sever.john-coene.com/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-sever-feedstock/blob/main/LICENSE.txt)
 
 Summary: Customise 'Shiny' disconnected screens as well as sanitize error messages to make them clearer and friendlier to the user.
 
