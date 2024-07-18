@@ -1,6 +1,5 @@
 {% set version = '0.0.7' %}
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-sever
@@ -13,8 +12,7 @@ source:
   sha256: 35a02e6328c651ad369b2a1ab4b04655a3757a0dae68e803d57485818d9b4c82
 
 build:
-  merge_build_host: True  # [win]
-  number: 1
+  number: 2
   noarch: generic
   rpaths:
     - lib/R/lib/
