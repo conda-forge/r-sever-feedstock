@@ -144,5 +144,5 @@ Feedstock Maintainers
 =====================
 
 * [@Shelnutt2](https://github.com/Shelnutt2/)
-* [@conda-forge/r](https://github.com/conda-forge/r/)
+* [@conda-forge/r](https://github.com/orgs/conda-forge/teams/r/)
 
